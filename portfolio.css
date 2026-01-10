@@ -725,6 +725,21 @@ button {
     opacity: 0.8;
 }
 
+.back-to-top {
+    width: 65px;
+    height: 65px;
+    background-color: #0f172a;
+    border: 2px var(--accent-color) solid;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #ffff;
+    float: right;
+    margin-bottom: 50px;
+}
+
 /* Responsive Design */
 @media screen and (max-width: 769px) {
     header {
