@@ -231,7 +231,7 @@ span {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-image: url('/images/hausaman.jpg');
+    background-image: url('images/hausaman.jpg');
     z-index: 2;
     background-repeat: no-repeat;
     background-size: cover;
