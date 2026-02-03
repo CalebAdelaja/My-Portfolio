@@ -256,7 +256,7 @@ span {
 .button-container {
     display: flex;
     align-items: center;
-    justify-content: start;
+    justify-content: flex-start;
     gap: 2rem;
     width: 100%;
 }
