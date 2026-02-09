@@ -562,7 +562,7 @@ button {
     align-items: center;
     justify-content: center;
     font-weight: 700;
-    /* font-size: 1.2rem; */
+    font-size: 1.2rem; 
     color: var(--accent-color);
     border: 2px solid var(--accent-color);
     word-break: break-all;
@@ -571,7 +571,8 @@ button {
 .fa-html5, .fa-css3-alt, 
 .fa-js, .fa-react, 
 .fa-vuejs, .fa-sass,
-.fa-git-alt, .fa-figma {
+.fa-git-alt, .fa-figma,
+.fa-github {
     font-size: 3rem;
 }
 
