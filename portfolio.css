@@ -568,6 +568,13 @@ button {
     word-break: break-all;
 }
 
+.fa-html5, .fa-css3-alt, 
+.fa-js, .fa-react, 
+.fa-vuejs, .fa-sass,
+.fa-git-alt, .fa-figma {
+    font-size: 3rem;
+}
+
 .skill-name {
     font-weight: 600;
     font-size: 1rem;
